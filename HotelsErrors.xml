@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- ERROR 1: Root element should be "Hotels" but is "Hotel" -->
-<Hotel>
+<Hotels>
   <Hotel Rating="4.2">
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
@@ -134,4 +134,5 @@
       <Zip>85282</Zip>
     </Address>
   </Hotel>
-</Hotel>
+</Hotels>
+
