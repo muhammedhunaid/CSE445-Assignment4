@@ -26,7 +26,7 @@
       <Zip>85282</Zip>
     </Address>
   </Hotel>
-  <!-- ERROR 3: Phone element missing -->
+  <!-- ERROR 3: Phone element missing (required by schema) -->
   <Hotel Rating="4.3">
     <Name>Sheraton Phoenix Downtown</Name>
     <Address NearestAirport="Sky Harbor">
@@ -37,9 +37,10 @@
       <Zip>85004</Zip>
     </Address>
   </Hotel>
-  <!-- ERROR 4: Address element has no closing tag -->
+  <!-- ERROR 4: Duplicate Name elements (only one allowed) -->
   <Hotel>
     <Name>Renaissance Phoenix Downtown Hotel</Name>
+    <Name>Renaissance Phoenix</Name>
     <Phone>602-333-0000</Phone>
     <Phone>800-309-8138</Phone>
     <Address NearestAirport="Sky Harbor">
@@ -48,13 +49,13 @@
       <City>Phoenix</City>
       <State>AZ</State>
       <Zip>85004</Zip>
+    </Address>
   </Hotel>
-  <!-- ERROR 5: Two Name elements for one hotel -->
+  <!-- ERROR 5: Name element missing (required by schema) -->
   <Hotel Rating="4.7">
-    <Name>Arizona Grand Resort and Spa</Name>
-    <Name>Arizona Grand Resort</Name>
     <Phone>602-438-9000</Phone>
     <Phone>866-267-1321</Phone>
+    <Phone>602-431-6535</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>8000</Number>
       <Street>S Arizona Grand Pkwy</Street>
