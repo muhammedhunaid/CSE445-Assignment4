@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Hotels>
   <Hotel Rating="4.2">
-    <n>Westin</n>
+    <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
     <Address NearestAirport="Sky Harbor">
@@ -13,7 +13,7 @@
     </Address>
   </Hotel>
   <Hotel Rating="4.5">
-    <n>Marriott Phoenix Tempe at The Buttes</n>
+    <Name>Marriott Phoenix Tempe at The Buttes</Name>
     <Phone>602-225-9000</Phone>
     <Phone>888-867-7492</Phone>
     <Address NearestAirport="Sky Harbor">
@@ -25,7 +25,7 @@
     </Address>
   </Hotel>
   <Hotel Rating="4.3">
-    <n>Sheraton Phoenix Downtown</n>
+    <Name>Sheraton Phoenix Downtown</Name>
     <Phone>602-262-2500</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>340</Number>
@@ -36,7 +36,7 @@
     </Address>
   </Hotel>
   <Hotel>
-    <n>Renaissance Phoenix Downtown Hotel</n>
+    <Name>Renaissance Phoenix Downtown Hotel</Name>
     <Phone>602-333-0000</Phone>
     <Phone>800-309-8138</Phone>
     <Address NearestAirport="Sky Harbor">
@@ -48,7 +48,7 @@
     </Address>
   </Hotel>
   <Hotel Rating="4.7">
-    <n>Arizona Grand Resort and Spa</n>
+    <Name>Arizona Grand Resort and Spa</Name>
     <Phone>602-438-9000</Phone>
     <Phone>866-267-1321</Phone>
     <Phone>602-431-6535</Phone>
@@ -61,7 +61,7 @@
     </Address>
   </Hotel>
   <Hotel Rating="4.6">
-    <n>The Phoenician Resort</n>
+    <Name>The Phoenician Resort</Name>
     <Phone>480-941-8200</Phone>
     <Phone>800-888-8234</Phone>
     <Address NearestAirport="Sky Harbor">
@@ -73,7 +73,7 @@
     </Address>
   </Hotel>
   <Hotel>
-    <n>Hilton Phoenix Airport</n>
+    <Name>Hilton Phoenix Airport</Name>
     <Phone>480-894-1600</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>2435</Number>
@@ -84,7 +84,7 @@
     </Address>
   </Hotel>
   <Hotel Rating="4.1">
-    <n>Hyatt Regency Phoenix</n>
+    <Name>Hyatt Regency Phoenix</Name>
     <Phone>602-252-1234</Phone>
     <Phone>800-633-7313</Phone>
     <Address NearestAirport="Sky Harbor">
@@ -96,7 +96,7 @@
     </Address>
   </Hotel>
   <Hotel Rating="4.4">
-    <n>JW Marriott Phoenix Desert Ridge Resort</n>
+    <Name>JW Marriott Phoenix Desert Ridge Resort</Name>
     <Phone>480-293-5000</Phone>
     <Phone>800-835-6206</Phone>
     <Address NearestAirport="Sky Harbor">
@@ -108,7 +108,7 @@
     </Address>
   </Hotel>
   <Hotel>
-    <n>Graduate Tempe</n>
+    <Name>Graduate Tempe</Name>
     <Phone>480-967-9431</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>225</Number>
@@ -119,7 +119,7 @@
     </Address>
   </Hotel>
   <Hotel Rating="4.0">
-    <n>Embassy Suites by Hilton Phoenix Tempe</n>
+    <Name>Embassy Suites by Hilton Phoenix Tempe</Name>
     <Phone>480-897-7444</Phone>
     <Phone>800-362-2779</Phone>
     <Address NearestAirport="Sky Harbor">
